@@ -16,6 +16,7 @@
 		B2344B9E2893DED200C7ECE8 /* WiseQuotesGeneratorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2344B9D2893DED200C7ECE8 /* WiseQuotesGeneratorTests.swift */; };
 		B2344BA82893DED200C7ECE8 /* WiseQuotesGeneratorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2344BA72893DED200C7ECE8 /* WiseQuotesGeneratorUITests.swift */; };
 		B2344BAA2893DED200C7ECE8 /* WiseQuotesGeneratorUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2344BA92893DED200C7ECE8 /* WiseQuotesGeneratorUITestsLaunchTests.swift */; };
+		B2344BB72893E23700C7ECE8 /* Quotes.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2344BB62893E23700C7ECE8 /* Quotes.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		B2344BA32893DED200C7ECE8 /* WiseQuotesGeneratorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WiseQuotesGeneratorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B2344BA72893DED200C7ECE8 /* WiseQuotesGeneratorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WiseQuotesGeneratorUITests.swift; sourceTree = "<group>"; };
 		B2344BA92893DED200C7ECE8 /* WiseQuotesGeneratorUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WiseQuotesGeneratorUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		B2344BB62893E23700C7ECE8 /* Quotes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Quotes.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				B2344B862893DED000C7ECE8 /* AppDelegate.swift */,
 				B2344B882893DED000C7ECE8 /* SceneDelegate.swift */,
 				B2344B8A2893DED000C7ECE8 /* ViewController.swift */,
+				B2344BB62893E23700C7ECE8 /* Quotes.swift */,
 				B2344B8C2893DED000C7ECE8 /* Main.storyboard */,
 				B2344B8F2893DED200C7ECE8 /* Assets.xcassets */,
 				B2344B912893DED200C7ECE8 /* LaunchScreen.storyboard */,
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B2344BB72893E23700C7ECE8 /* Quotes.swift in Sources */,
 				B2344B8B2893DED000C7ECE8 /* ViewController.swift in Sources */,
 				B2344B872893DED000C7ECE8 /* AppDelegate.swift in Sources */,
 				B2344B892893DED000C7ECE8 /* SceneDelegate.swift in Sources */,
